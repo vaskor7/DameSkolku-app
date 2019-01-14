@@ -26,7 +26,8 @@
     "redux-logger": "^3.0.6",
     "redux-observable": "^1.0.0",
     "rxjs": "^6.3.3",
-    "rxjs-compat": "^6.3.3"
+    "rxjs-compat": "^6.3.3",
+    "supercluster": "5.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
